@@ -1,0 +1,57 @@
+
+.img{
+    height:40px;
+    position: relative;
+    top: 25px;
+    left: 35px;
+    
+  
+}
+
+
+.gg{position: relative; left: 32%; top: 5%;}
+.ff{position: relative; left: 40%; }
+.hh{margin: 0px; padding: 0px; height: 60px; background-color: white;}
+
+.usuario{border: 1px solid #0B6AEE; border-radius: 0px; color: #0B6AEE; width: 140PX;}
+
+.img3{width: 20px;position: relative; top: 8px; left: 30px;}
+.img2{width: 20px;position: relative; top: 8px; left: 55px;}
+.img1{width: 20px;position: relative; top: 8px; left: 70px;}
+.img0{width: 30px;}
+
+
+.jj{position: relative; top: 50%;}
+.jk{position: relative; top: 100px; left: 1%;}
+
+/** css de la parte latera de los iconos*/
+.img5{ margin: 10px; width:20px;}
+.p1{position: relative; left: 6px; color: rgba(241, 3, 3, 1);} 
+
+.img6{  margin: 10px;width:20px;}
+.p2{position: relative; right: 5px; color:#606060;} 
+
+.img7{  margin: 10px; width:20px;}
+.p3{position: relative;  right: 5px; color:#606060; } 
+
+.img8{  margin: 10px; width:20px;}
+.p4{position: relative;  right: 5px; color:#606060; }
+
+.img9{  margin: 10px; width:20px;}
+.p5{position: relative;  right: 5px;  color:#606060; }
+
+/** cuerpo*/
+.mover{position: relative; top: 25%; left: 5%;}
+.kk{position: relative; top: 30%;}
+
+.ty{margin: 0px; padding: 0px; color:#606060;}
+
+/** media cuery*/
+
+@media only screen and (max-width: 1454px) {
+    .gg{position: relative; left: 5%;}
+    .ff{position: relative; left: 17%;}
+    .mover{position: relative; top:10% ; left: 1%;}
+
+    .kk{position: relative; top: 15%;}
+  }
